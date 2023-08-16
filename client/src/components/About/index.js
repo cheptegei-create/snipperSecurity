@@ -34,6 +34,17 @@ export default function About() {
                   Busia.
                 </p>
               </div>
+              <div className="card-body">
+                <h5 className="card-title">VISION AND MISSION</h5>
+                <p className="card-text">
+                  VISION – To be the preferred security solutions provider in
+                  the country.
+                </p>
+                <p className="card-text">
+                  MISSION - Our mission is to provide excellent security
+                  services that meets the needs and expectations of our clients.
+                </p>
+              </div>
             </div>
           </div>
         </div>
